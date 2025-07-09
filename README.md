@@ -13,3 +13,11 @@ The following prompts are made public via this repository:
 
 ## License
 This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+## Fork repo edits
+
+Interesting commit: 
+
+https://github.com/dylanhogg/xai-org-grok-prompts/commit/c5de4a14feb50b0e5b3e8554f9c8aae8c97b56b4#comments  
+
+https://github.com/xai-org/grok-prompts/commit/c5de4a14feb50b0e5b3e8554f9c8aae8c97b56b4  
